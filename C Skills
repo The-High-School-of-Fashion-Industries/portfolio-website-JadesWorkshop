@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+
+    <title>Salvador</title>
+
+</head>
+<body>
+  <center><h1> TOPIC/NAME OF PAGE </h1></center> 
+  
+<br>
+  <ul>
+     <img src="https://cmsv2-assets.apptegy.net/uploads/22295/logo/25108/logo_HSFI-web.png" alt="hsfi logo" style="float:right;width:90px;height:37px;">
+    
+  <li><a href="http://127.0.0.1:3000/E Contact.html?serverWindowId=60f0afe0-4d99-4e7c-acc0-8cbf871c0edb">Contact</a></li>
+  <li><a href="http://127.0.0.1:3000/A education?serverWindowId=1d78a2af-ffb0-46f5-aa8d-62c6cb795876">Education</a></li>
+  <li><a href="http://127.0.0.1:3000/B Community Service?serverWindowId=09856cb6-b691-4b35-87a6-4558ffa38e51">Community Service</a></li>
+  <li><a href="http://127.0.0.1:3000/C Skills?serverWindowId=beabf567-033a-4402-87e6-28c2cdfe0470">Skills</a></li>
+  <li><a href="http://127.0.0.1:3000/D projects?serverWindowId=3fcd3600-2915-4395-9190-237d8682a8b4">Projects</a></li>
+   <li><a href="http://127.0.0.1:3000/template.html?serverWindowId=a6a64a55-6f50-4fa9-8922-ee53b12f0a29">HomePage</a></li>
+</ul>
+<br>
+  <center><h2>INTRODUCTION - SKILLS </h2></center>
+  <center><h3>text</h3></center>
+ 
+</body>
+
+<footer>
+  <ul>
+    a
+  </ul>
+</footer>
+</html>
